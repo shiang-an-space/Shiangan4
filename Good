@@ -1,27 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>https://maps.app.goo.gl/VwDBuD7Xe9hZxoei7?g_st=com.google.maps.preview.copy</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <style>
-        #map {
-            height: 400px;
-            width: 100%;        }
-    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>祥安生命有限公司（禮儀公司）- 專業葬儀服務</title>
+    <title>台北市推薦禮儀公司 - 祥安生命有限公司（禮儀公司）- 100, 103, 104, 105, 106, 108, 110, 111, 112, 114, 115, 116</title>
+    <title>新北市推薦禮儀公司 - 祥安生命有限公司（禮儀公司）- 238, 235, 241, 244, 247, 248, 249, 251, 252, 242, 243, 248</title>
+    <title>三重葬儀社 - 祥安生命有限公司（禮儀公司） - 241</title>
+    <title>三重推薦葬儀社 - 祥安生命有限公司（禮儀公司） - 241</title>
+    <title>三重禮儀公司 - 祥安生命有限公司（禮儀公司） - 241</title>
+    <title>附近葬儀社 - 祥安生命有限公司（禮儀公司）</title>
+    <title>附近禮儀公司 - 祥安生命有限公司（禮儀公司）</title>
+    <title>優良禮儀業者 - 祥安生命有限公司（禮儀公司）</title>
+    <title>優良禮儀公司 - 祥安生命有限公司（禮儀公司）</title>
+    <title>專業禮儀公司 - 祥安生命有限公司（禮儀公司）</title>
+    <title>專業葬儀社 - 祥安生命有限公司（禮儀公司）</title>
+    <title>桃園優良禮儀公司 - 祥安生命有限公司（禮儀公司） - 330, 333, 334, 335, 337, 336, 338</title>
+    <title>桃園推薦葬儀社 - 祥安生命有限公司（禮儀公司）</title>
+    <title>日蓮正宗葬儀社 - 祥安生命有限公司（禮儀公司）</title>
+    <title>創價學會葬儀社 - 祥安生命有限公司（禮儀公司）</title>  
 </head>
 <body>
-    <h1>https://maps.app.goo.gl/VwDBuD7Xe9hZxoei7?g_st=com.google.maps.preview.copy</h1>
-    <div id="map"></div>
-
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <script>
-        var map = L.map('map').setView([25.033964, 121.564472], 15);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-        }).addTo(map);
-        L.marker([25.033964, 121.564472]).addTo(map)
-            .bindPopup('公司位置')
-            .openPopup();
-    </script>
+    <!-- https://shang-an-space.github.io/Shiangan4/Good/  -->
+    <meta name="description" content="祥安生命有限公司（禮儀公司）提供專業的葬儀服務，地點包括台北市、新北市、基隆市和桃園市。">
+    <p>我們提供專業的葬儀,禮儀服務，位於台北市、新北市，基隆市和桃園市。</p>
+    <iframe src="https://maps.app.goo.gl/rTi2PqmywgTxu1Qi7?g_st=il" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <!-- 聯絡方式和社交媒體鏈接 -->
+    <p>Follow us on <a href="https://www.facebook.com/shianganlife?mibextid=LQQJ4d">Facebook</a></p>
 </body>
 </html>

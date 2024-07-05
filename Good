@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE>
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
@@ -10,13 +10,14 @@
 
 <body>
     <!-- https://shang-an-space.github.io/Shiangan4/Good/  -->
-    <meta name="description" content="祥安生命有限公司（禮儀公司）提供專業的24小時免費殯葬諮詢服務，地點包括台北市、新北市、基隆市和桃園市，推薦葬儀社，價格優惠，實在，不會讓家屬多花錢。">
-    <p>我們提供各類宗教儀式的專業殯葬服務,禮儀服務，台北市、新北市，基隆市和桃園市。</p>
+    <p>祥安生命有限公司（禮儀公司）提供專業的24小時免費殯葬諮詢服務，地點包括台北市、新北市、基隆市和桃園市，推薦葬儀社，價格優惠，實在，不會讓家屬多花錢。</p>
     <iframe src="https://maps.app.goo.gl/rTi2PqmywgTxu1Qi7?g_st=il" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <!-- 聯絡方式和社交媒體鏈接 -->
-    <p>聯絡方式：<br>
-    電話：+886938179858<br>
-    地址：新北市三重區永福街135巷13號</p>
+    <p>聯絡方式：</p>
+    <ul>
+        <li>電話：+886938179858</li>
+        <li>地址：新北市三重區永福街135巷13號</li>
+    </ul>
     <p>Follow us on <a href="https://www.facebook.com/shianganlife?mibextid=LQQJ4d">Facebook</a></p>
 </body>
 </html>
